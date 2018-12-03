@@ -11,10 +11,10 @@
 如果有什么建议和要求的，请联系我们：lihuierly@gmail.com
 
 # 截图
-![images]()
-![images]()
-![images]()
-![images]()
+![images](https://github.com/ttvkenvin/--/blob/master/1.png)
+![images](https://github.com/ttvkenvin/--/blob/master/2.png)
+![images](https://github.com/ttvkenvin/--/blob/master/3.png)
+![images](https://github.com/ttvkenvin/--/blob/master/4.png)
 
 # 隐私政策
 	  
